@@ -1,1 +1,1 @@
-Homework for QA courses
+Homework for QA courses Terminal
