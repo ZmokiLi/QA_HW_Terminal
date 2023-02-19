@@ -11,7 +11,7 @@
 * [mkdir](./built-in%20commands/mkdir.md) - ([built-in commands](./built-in%20commands/build-in.md)) команда которая используется для создания новых каталогов (директорий) в файловой системе.
     > Пример: "mkdir Documents" - создание папки "Documents".
 
-* [touch](./built-in%20commands/mkdir.md) - ([built-in commands](./built-in%20commands/build-in.md)) команда которая используется для создания файлов или обновления временных меток существующих файлов.
+* [touch](./built-in%20commands/mkdir.md) - ([utility](./utils/utils.md)) команда которая используется для создания файлов или обновления временных меток существующих файлов.
     > Пример: "touch filename.txt" - создание нового текстового файла "filename.txt".
 
 * [cd](./built-in%20commands/cd.md) - ([built-in commands](./built-in%20commands/build-in.md)) команда для смены текущего рабочего каталога (переход в другую директорию).
